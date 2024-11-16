@@ -1,0 +1,1 @@
+Weather forecast web app built with HTML, CSS, JavaScript which provides accurate, real-time weather data with details on temperature, humidity, wind speed, and condition summaries for any selected…
